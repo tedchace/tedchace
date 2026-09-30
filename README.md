@@ -20,7 +20,7 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 | Digital Forensics and Timeline Analysis | <a href="REPLACE-WITH-DIGITAL-FORENSICS-REPO-URL">Digital Forensics Investigation</a> |
 | Log Correlation and Evidence Analysis | <a href="REPLACE-WITH-DIGITAL-FORENSICS-REPO-URL">Digital Forensics Investigation</a> |
 | Agile SDLC, Manual Testing, and Debugging | <a href="REPLACE-WITH-TLAN-REPO-URL">TLAN Interactive Training Application</a> |
-| Passive Reconnaissance and OSINT | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/offensive-penetration-testing/performing-passive-reconnaissance">Performing Passive Reconnaissance Lab</a> |
+| Passive Reconnaissance and OSINT | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/offensive-penetration-testing/performing-passive-reconnaissance">Performing Passive Reconnaissance Lab</a> |
 
 
 ## Tools
