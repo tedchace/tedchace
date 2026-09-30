@@ -57,7 +57,6 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 
 ### Cloud & Infrastructure
 <div>
-    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
