@@ -20,6 +20,7 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 | Digital Forensics and Timeline Analysis | <a href="REPLACE-WITH-DIGITAL-FORENSICS-REPO-URL">Digital Forensics Investigation</a> |
 | Log Correlation and Evidence Analysis | <a href="REPLACE-WITH-DIGITAL-FORENSICS-REPO-URL">Digital Forensics Investigation</a> |
 | Agile SDLC, Manual Testing, and Debugging | <a href="REPLACE-WITH-TLAN-REPO-URL">TLAN Interactive Training Application</a> |
+| Passive Reconnaissance and OSINT | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/offensive-penetration-testing/performing-passive-reconnaissance">Performing Passive Reconnaissance Lab</a> |
 
 
 ## Tools
@@ -30,6 +31,8 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
     <img src="https://img.shields.io/badge/-Hydra-222222?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wifite-333333?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Maltego-EF6C00?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-theHarvester-333333?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Defensive / SOC & Monitoring
@@ -69,11 +72,12 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Office_Specialist-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MOS_Word_2016-2B579A?&style=for-the-badge&logo=microsoftword&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MOS_Excel_2016-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MOS_PowerPoint_2016-B7472A?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
 </div>
 
 ## Projects
 
 - <a href="https://github.com/tedchace/Home-Network-Security-Project">Home Network Infrastructure & Security Hardening Lab</a>
-- <a href="REPLACE-WITH-DIGITAL-FORENSICS-REPO-URL">Digital Forensics Investigation</a>
-- <a href="REPLACE-WITH-TLAN-REPO-URL">TLAN Interactive Training Application</a>
+- <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects">Cybersecurity Academic Projects</a>
