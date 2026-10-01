@@ -21,6 +21,7 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 | Log Correlation and Evidence Analysis | <a href="REPLACE-WITH-DIGITAL-FORENSICS-REPO-URL">Digital Forensics Investigation</a> |
 | Agile SDLC, Manual Testing, and Debugging | <a href="REPLACE-WITH-TLAN-REPO-URL">TLAN Interactive Training Application</a> |
 | Passive Reconnaissance and OSINT | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/offensive-penetration-testing/performing-passive-reconnaissance">Performing Passive Reconnaissance Lab</a> |
+| Firewall, NAT, Routing, and Infrastructure Security Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/network-security/exploring-seven-domains-it-infrastructure/">Exploring the Seven Domains of a Typical IT Infrastructure Lab</a> |
 
 
 ## Tools
@@ -39,11 +40,13 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### Network Security
 <div>
     <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfsense&logoColor=white" />
 </div>
 
 ### Forensics & Incident Response
@@ -60,6 +63,7 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 
 ### Cloud & Infrastructure
 <div>
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
