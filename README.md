@@ -22,6 +22,7 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 | Agile SDLC, Manual Testing, and Debugging | <a href="REPLACE-WITH-TLAN-REPO-URL">TLAN Interactive Training Application</a> |
 | Passive Reconnaissance and OSINT | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/offensive-penetration-testing/performing-passive-reconnaissance">Performing Passive Reconnaissance Lab</a> |
 | Firewall, NAT, Routing, and Infrastructure Security Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/network-security/exploring-seven-domains-it-infrastructure/">Exploring the Seven Domains of a Typical IT Infrastructure Lab</a> |
+| Web Development and Programming Fundamentals | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/coding-scripting/intro-to-internet-applications">Introduction to Internet Applications Programming Exercises</a> |
 
 
 ## Tools
@@ -57,6 +58,11 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 ### Coding / Scripting
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23-512BD4?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?&style=for-the-badge&logo=androidstudio&logoColor=white" />
 </div>
