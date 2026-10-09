@@ -19,7 +19,8 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 | Python Security Automation | <a href="https://github.com/tedchace/Home-Network-Security-Project">Home Network Infrastructure & Security Hardening Lab</a> |
 | Digital Forensics and Timeline Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/forensics-incident-response/digital-forensics-investigation">Digital Forensics Investigation</a> |
 | Log Correlation and Evidence Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/forensics-incident-response/digital-forensics-investigation">Digital Forensics Investigation</a> |
-| Agile SDLC, Manual Testing, and Debugging | <a href="REPLACE-WITH-TLAN-REPO-URL">TLAN Interactive Training Application</a> |
+| UI/UX Design and Android Application Development | [TLAN Interactive Training Application](https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/coding-scripting/tlan-interactive-training-application) |
+| Software Development Lifecycle, Agile Collaboration, and Manual Testing | [TLAN Interactive Training Application](https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/coding-scripting/tlan-interactive-training-application) |
 | Passive Reconnaissance and OSINT | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/offensive-penetration-testing/performing-passive-reconnaissance">Performing Passive Reconnaissance Lab</a> |
 | Firewall, NAT, Routing, and Infrastructure Security Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/network-security/exploring-seven-domains-it-infrastructure/">Exploring the Seven Domains of a Typical IT Infrastructure Lab</a> |
 | Web Development and Programming Fundamentals | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/coding-scripting/intro-to-internet-applications">Introduction to Internet Applications Programming Exercises</a> |
@@ -71,6 +72,7 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 <div>
     <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
 ### Compliance & GRC
