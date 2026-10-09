@@ -17,8 +17,8 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 | SIEM Monitoring and Log Analysis | <a href="https://github.com/tedchace/Home-Network-Security-Project">Home Network Infrastructure & Security Hardening Lab</a> |
 | Security Alert Configuration and Testing | <a href="https://github.com/tedchace/Home-Network-Security-Project">Home Network Infrastructure & Security Hardening Lab</a> |
 | Python Security Automation | <a href="https://github.com/tedchace/Home-Network-Security-Project">Home Network Infrastructure & Security Hardening Lab</a> |
-| Digital Forensics and Timeline Analysis | <a href="REPLACE-WITH-DIGITAL-FORENSICS-REPO-URL">Digital Forensics Investigation</a> |
-| Log Correlation and Evidence Analysis | <a href="REPLACE-WITH-DIGITAL-FORENSICS-REPO-URL">Digital Forensics Investigation</a> |
+| Digital Forensics and Timeline Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/forensics-incident-response/digital-forensics-investigation">Digital Forensics Investigation</a> |
+| Log Correlation and Evidence Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/forensics-incident-response/digital-forensics-investigation">Digital Forensics Investigation</a> |
 | Agile SDLC, Manual Testing, and Debugging | <a href="REPLACE-WITH-TLAN-REPO-URL">TLAN Interactive Training Application</a> |
 | Passive Reconnaissance and OSINT | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/offensive-penetration-testing/performing-passive-reconnaissance">Performing Passive Reconnaissance Lab</a> |
 | Firewall, NAT, Routing, and Infrastructure Security Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/network-security/exploring-seven-domains-it-infrastructure/">Exploring the Seven Domains of a Typical IT Infrastructure Lab</a> |
