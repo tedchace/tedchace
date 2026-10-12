@@ -24,6 +24,7 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 | Passive Reconnaissance and OSINT | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/offensive-penetration-testing/performing-passive-reconnaissance">Performing Passive Reconnaissance Lab</a> |
 | Firewall, NAT, Routing, and Infrastructure Security Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/network-security/exploring-seven-domains-it-infrastructure/">Exploring the Seven Domains of a Typical IT Infrastructure Lab</a> |
 | Web Development and Programming Fundamentals | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/coding-scripting/intro-to-internet-applications">Introduction to Internet Applications Programming Exercises</a> |
+| Vulnerability Assessment, Risk Analysis, and Remediation Planning | [Performing a Vulnerability Assessment](https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/network-security/performing-vulnerability-assessment) |
 
 
 ## Tools
@@ -49,6 +50,7 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 <div>
     <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zenmap-457B9D?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Forensics & Incident Response
