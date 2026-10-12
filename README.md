@@ -25,6 +25,7 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
 | Firewall, NAT, Routing, and Infrastructure Security Analysis | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/network-security/exploring-seven-domains-it-infrastructure/">Exploring the Seven Domains of a Typical IT Infrastructure Lab</a> |
 | Web Development and Programming Fundamentals | <a href="https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/coding-scripting/intro-to-internet-applications">Introduction to Internet Applications Programming Exercises</a> |
 | Vulnerability Assessment, Risk Analysis, and Remediation Planning | [Performing a Vulnerability Assessment](https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/network-security/performing-vulnerability-assessment) |
+| Attack Vector Assessment and Defensive Analysis | [Assessing Common Attack Vectors](https://github.com/tedchace/Cybersecurity-Academic-Projects/tree/main/offensive-penetration-testing/assessing-common-attack-vectors) |
 
 
 ## Tools
@@ -35,6 +36,8 @@ I earned a Bachelor of Science in Cybersecurity from Saint Leo University and th
     <img src="https://img.shields.io/badge/-Hydra-222222?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wifite-333333?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Social_Engineering_Toolkit-6A1B9A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_Juice_Shop-F5A623?&style=for-the-badge&logo=owasp&logoColor=black" />
     <img src="https://img.shields.io/badge/-Maltego-EF6C00?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-theHarvester-333333?&style=for-the-badge&logoColor=white" />
 </div>
